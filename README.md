@@ -1,5 +1,7 @@
 # Hotel Reservation Site (with React, Contentful, Netlify, Styled Components)
 
+https://hotel-bookings-site.netlify.app/
+
 - svakog dana u svakom pogledu sve vise napredujem :)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
